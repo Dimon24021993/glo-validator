@@ -1,0 +1,11 @@
+.validator_success {
+    border: solid 2px green;
+}
+
+.validator_error {
+    border: solid 2px red;
+}
+
+.validator_error--text {
+    font: 10px red;
+}
